@@ -237,7 +237,8 @@ function create_config( )
 
 Admins
 @unkownhacker
-    help_text_realm = [[
+ ]],
+ help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
